@@ -5,6 +5,7 @@
 
 ### Daniela
 -add backend manual installation in the report
+-ER diagram (data base)
 
 ###Milca
 -fronted unit test cases (code and documentation) -> section 13
