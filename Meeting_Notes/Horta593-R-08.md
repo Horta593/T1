@@ -2,6 +2,7 @@
 
 ### Joangie
 - continue with auth in redis
+- creation of promo endpoint and test of it 
 
 ### Daniela
 - finish order detail model 
@@ -17,4 +18,5 @@
 
 
 ### all
+- We did a table of endpoints because in this way we can mock better...
 - todo: presentation with client --> friday 07/28
