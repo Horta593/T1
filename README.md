@@ -2,16 +2,18 @@
 
 In this folder, you will find evidence of meetings, such as WhatsApp messages, meeting notes, and screenshots from meetings on the Google Meets platform.
 
-''''
+```
 └── T1
     ├── Communications
     │   ├── Acceptance_leter
     │   │   ├── Acceptance_Sprint1_signed-signed.pdf
-    │   │   ├── LetterClientAcceptance_signed (1).pdf
+    │   │   ├── LetterClientAcceptance_signed.pdf
     │   │   └── acceptance.md
     │   ├── Instant messaging
-    │   │   ├── Reunion.jpeg
-    │   │   └── Reunion.png
+    │   │   ├── 1GaluchiConfirmMeeting.png
+    │   │   ├── 2CloseGaluchi.png
+    │   │   ├── FirstHortaMeeting.jpeg
+    │   │   └── HortaMeeting.png
     │   ├── Meeting_Notes
     │   │   ├── Horta593-R-08.md
     │   │   ├── Horta593-R01.md
@@ -29,4 +31,4 @@ In this folder, you will find evidence of meetings, such as WhatsApp messages, m
     │       ├── Stackeholder Meeting.jpeg
     │       └── Stakeholder Meeting.jpeg
     └── README.md
-'''
+```
