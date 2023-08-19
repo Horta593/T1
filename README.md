@@ -7,7 +7,7 @@ In this folder, you will find evidence of meetings, such as WhatsApp messages, m
     ├── Communications
     │   ├── Acceptance_leter
     │   │   ├── Acceptance_Sprint1_signed-signed.pdf
-    │   │   ├── LetterClientAcceptance_signed (1).pdf
+    │   │   ├── LetterClientAcceptance_signed.pdf
     │   │   └── acceptance.md
     │   ├── Instant messaging
     │   │   ├── Reunion.jpeg
